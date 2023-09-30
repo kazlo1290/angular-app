@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.sass']
 })
 export class AppComponent {
-  title = 'angular-app';
+  title = 'angular-app ----sdfsd';
+  message = 'Hello world!';
+  clicked = false;
 }
